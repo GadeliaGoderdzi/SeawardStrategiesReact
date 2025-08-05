@@ -1,0 +1,744 @@
+{
+  "database_info": {
+    "name": "Chinese Anti-Piracy Flotilla News Database",
+    "description": "Test database containing news articles about Chinese naval vessels participating in anti-piracy operations",
+    "created_date": "2025-08-01",
+    "last_updated": "2025-08-01",
+    "total_articles": 18
+  },
+  "articles": [
+    {
+      "id": 9,
+      "title": "47th Chinese Naval Escort Task Force Conducts Multi-Subject Training in Gulf of Aden",
+      "summary": "China's 47th naval escort task force conducted extensive multi-subject training exercises in the Gulf of Aden, featuring the frigate CNS Honghe and supply ship CNS Gaoyouhu. The training focused on enhancing operational readiness amid increased regional security concerns in the Red Sea corridor.",
+      "source_url": "https://www.armyrecognition.com/news/navy-news/2025/47th-chinese-naval-escort-task-force-training-gulf-aden",
+      "publication_date": "2025-04-15",
+      "location": {
+        "region": "Gulf of Aden",
+        "coordinates": {
+          "latitude": 12.8,
+          "longitude": 45.2
+        },
+        "description": "Strategic maritime training area linking Red Sea with Arabian Sea"
+      },
+      "vessels_mentioned": [
+        {
+          "name": "CNS Honghe",
+          "type": "Type 054A Frigate",
+          "role": "Primary training vessel"
+        },
+        {
+          "name": "CNS Gaoyouhu",
+          "type": "Type 903A Replenishment ship",
+          "role": "Support and logistics vessel"
+        }
+      ],
+      "task_force": "47th Escort Task Force",
+      "training_focus": "Multi-subject operational readiness",
+      "regional_context": "Increased Red Sea security concerns due to Houthi activities"
+    },
+    {
+      "id": 10,
+      "title": "Chinese Destroyer CNS Baotou Arrives in Abu Dhabi for Replenishment Mission",
+      "summary": "The Type 052DL destroyer CNS Baotou, part of China's 47th naval escort task force, arrived in Abu Dhabi for a five-day replenishment and maintenance period. The 7,000-ton warship demonstrates China's expanding military reach in the Middle East region.",
+      "source_url": "https://www.newsweek.com/china-news-navy-ships-visit-persian-gulf-us-iran-tensions-2068922",
+      "publication_date": "2025-03-22",
+      "location": {
+        "region": "Persian Gulf - Abu Dhabi",
+        "coordinates": {
+          "latitude": 24.4539,
+          "longitude": 54.3773
+        },
+        "description": "Strategic port visit in United Arab Emirates"
+      },
+      "vessels_mentioned": [
+        {
+          "name": "CNS Baotou",
+          "type": "Type 052DL Destroyer",
+          "role": "Lead escort vessel with comprehensive combat capabilities"
+        }
+      ],
+      "task_force": "47th Escort Task Force",
+      "displacement": "7,000 tons",
+      "capabilities": "Anti-aircraft, anti-ship, and anti-submarine comprehensive combat capabilities",
+      "mission_duration": "5-day replenishment and maintenance period"
+    },
+    {
+      "id": 11,
+      "title": "Russia, China and Iranian Warships Conduct Joint Maritime Security Belt 2025 Drills",
+      "summary": "Ships from the Russian Navy, Chinese People's Liberation Army Navy, and Iranian Navy gathered at Iran's Chabahar Port for the Maritime Security Belt 2025 exercise. The Chinese vessels CNS Baotou and CNS Gaoyouhu participated in the multinational anti-piracy and maritime security drills.",
+      "source_url": "https://news.usni.org/2025/03/12/russia-china-and-iranian-warships-drilling-together-in-gulf-of-oman",
+      "publication_date": "2025-03-12",
+      "location": {
+        "region": "Gulf of Oman - Chabahar Port",
+        "coordinates": {
+          "latitude": 25.2919,
+          "longitude": 60.6430
+        },
+        "description": "Iranian naval base hosting multinational maritime exercise"
+      },
+      "vessels_mentioned": [
+        {
+          "name": "CNS Baotou",
+          "type": "Type 052DL Destroyer",
+          "role": "Chinese exercise participant"
+        },
+        {
+          "name": "CNS Gaoyouhu",
+          "type": "Type 903A Fleet oiler",
+          "role": "Support vessel"
+        }
+      ],
+      "exercise_name": "Maritime Security Belt 2025",
+      "participating_nations": ["China", "Russia", "Iran"],
+      "exercise_focus": "Anti-piracy and maritime security operations"
+    },
+    {
+      "id": 12,
+      "title": "China's 47th Naval Escort Task Force Departs for Gulf of Aden Anti-Piracy Mission",
+      "summary": "The People's Liberation Army Navy's 47th Chinese Naval Escort Task Force, comprising destroyer CNS Baotou, frigate CNS Honghe, and replenishment ship CNS Gaoyouhu, departed from Zhoushan, Zhejiang Province for deployment to the Gulf of Aden and waters around Somalia.",
+      "source_url": "https://english.chinamil.com.cn/CHINA_209163/News_209165/20241215/latest_47th_escort_task_force_deployment.html",
+      "publication_date": "2024-12-15",
+      "location": {
+        "region": "Zhoushan Naval Base to Gulf of Aden",
+        "coordinates": {
+          "latitude": 30.0160,
+          "longitude": 122.2070
+        },
+        "description": "Deployment route from Chinese naval base to operational area"
+      },
+      "vessels_mentioned": [
+        {
+          "name": "CNS Baotou",
+          "type": "Type 052DL Destroyer",
+          "role": "Task force flagship"
+        },
+        {
+          "name": "CNS Honghe",
+          "type": "Type 054A Frigate", 
+          "role": "Escort vessel"
+        },
+        {
+          "name": "CNS Gaoyouhu",
+          "type": "Type 903A Replenishment ship",
+          "role": "Fleet logistics support"
+        }
+      ],
+      "task_force": "47th Escort Task Force",
+      "deployment_date": "December 15, 2024",
+      "mission_area": "Gulf of Aden and waters around Somalia"
+    },
+    {
+      "id": 13,
+      "title": "Chinese Navy's 46th Escort Task Force Completes 339-Day Deployment",
+      "summary": "The Chinese destroyer CNS Jiaozuo, frigate CNS Xuchang, and replenishment ship CNS Honghu completed their extended 339-day deployment, arriving at Zhanjiang naval port. The mission covered over 160,000 nautical miles with escort missions spanning Asia, Africa, and Europe.",
+      "source_url": "https://english.chinamil.com.cn/CHINA_209163/News_209165/20241201/46th_task_force_return_zhanjiang.html",
+      "publication_date": "2024-12-01",
+      "location": {
+        "region": "Zhanjiang Naval Port",
+        "coordinates": {
+          "latitude": 21.2707,
+          "longitude": 110.3588
+        },
+        "description": "Southern Chinese naval base in Guangdong Province"
+      },
+      "vessels_mentioned": [
+        {
+          "name": "CNS Jiaozuo",
+          "type": "Type 054A Guided-missile frigate",
+          "role": "Task force flagship"
+        },
+        {
+          "name": "CNS Xuchang",
+          "type": "Type 054A Frigate",
+          "role": "Escort vessel"
+        },
+        {
+          "name": "CNS Honghu",
+          "type": "Type 903A Replenishment ship",
+          "role": "Support vessel"
+        }
+      ],
+      "task_force": "46th Escort Task Force",
+      "mission_duration": "339 days",
+      "distance_covered": "Over 160,000 nautical miles",
+      "geographic_scope": "Asia, Africa, and Europe"
+    },
+    {
+      "id": 14,
+      "title": "US Ally Japan Sends Warship to Shadow Chinese Navy Task Force",
+      "summary": "Japan's Maritime Self-Defense Force dispatched a warship to monitor China's anti-piracy escort task force as it transited through the Miyako Strait. The incident highlights growing tensions over Chinese naval activities in international waters near Japanese territory.",
+      "source_url": "https://www.newsweek.com/japan-china-navy-escort-task-force-gulf-aden-anti-piracy-miyako-strait-1900186",
+      "publication_date": "2024-05-18",
+      "location": {
+        "region": "Miyako Strait",
+        "coordinates": {
+          "latitude": 24.8,
+          "longitude": 125.3
+        },
+        "description": "Strategic waterway between Okinawa and Miyako Island"
+      },
+      "vessels_mentioned": [
+        {
+          "name": "Chinese escort task force vessels",
+          "type": "Naval task force",
+          "role": "Transit through international waters"
+        },
+        {
+          "name": "Japanese Maritime Self-Defense Force vessel",
+          "type": "Monitoring vessel",
+          "role": "Surveillance and tracking"
+        }
+      ],
+      "incident_type": "Naval monitoring and surveillance",
+      "international_implications": "Japan-China maritime tensions",
+      "strategic_waterway": "Miyako Strait"
+    },
+    {
+      "id": 15,
+      "title": "Chinese Navy Escort Task Force Joins Multinational Anti-Piracy Operations", 
+      "summary": "A new Chinese naval escort task force joined multinational anti-piracy operations in the Gulf of Aden, coordinating with international naval forces to protect commercial shipping. The mission demonstrates continued international cooperation in maritime security efforts.",
+      "source_url": "https://chinaglobalsouth.com/2022/10/19/new-chinese-naval-escort-task-force-joins-multinational-anti-piracy-operations-in-the-gulf-of-aden/",
+      "publication_date": "2023-10-19",
+      "location": {
+        "region": "Gulf of Aden Multinational Coordination Zone",
+        "coordinates": {
+          "latitude": 12.0,
+          "longitude": 46.0
+        },
+        "description": "International maritime security coordination area"
+      },
+      "vessels_mentioned": [
+        {
+          "name": "42nd Naval Escort Task Force",
+          "type": "Multiple vessel types",
+          "role": "Multinational anti-piracy operations"
+        }
+      ],
+      "task_force": "42nd Escort Task Force", 
+      "operation_type": "Multinational coordination",
+      "international_cooperation": "Multiple naval forces coordination",
+      "mission_focus": "Commercial shipping protection"
+    },
+    {
+      "id": 16,
+      "title": "43rd Chinese Navy Fleet Takes Over Gulf of Aden Escort Mission",
+      "summary": "The 43rd Chinese naval fleet, consisting of guided-missile destroyer Nanning, guided-missile frigate Sanya, and comprehensive supply ship Weishanhu, officially took over escort duties from the 42nd naval fleet. The handover included over 700 troops and two ship-borne helicopters.",
+      "source_url": "https://news.cgtn.com/news/2023-02-07/43rd-Chinese-navy-fleet-takes-over-Gulf-of-Aden-escort-mission-1heac1DXucE/index.html",
+      "publication_date": "2023-02-07",
+      "location": {
+        "region": "Gulf of Aden Operational Handover Zone",
+        "coordinates": {
+          "latitude": 13.5,
+          "longitude": 46.8
+        },
+        "description": "Operational transition area for Chinese naval task forces"
+      },
+      "vessels_mentioned": [
+        {
+          "name": "CNS Nanning",
+          "type": "Guided-missile destroyer",
+          "role": "43rd Task Force flagship"
+        },
+        {
+          "name": "CNS Sanya", 
+          "type": "Guided-missile frigate",
+          "role": "Escort vessel"
+        },
+        {
+          "name": "CNS Weishanhu",
+          "type": "Comprehensive supply ship",
+          "role": "Fleet logistics support"
+        }
+      ],
+      "task_force": "43rd Escort Task Force",
+      "crew_size": "Over 700 troops",
+      "aircraft": "Two ship-borne helicopters",
+      "operation_type": "Task force handover and transition"
+    },
+    {
+      "id": 17,
+      "title": "Chinese Navy's 39th Escort Task Force Encounters Suspected Pirates",
+      "summary": "The 39th Chinese Naval Escort Task Force successfully deterred a suspected pirate speedboat while escorting eight Chinese fishing vessels through high-risk waters. The incident involved deployment of warning sirens, loudspeaker messages, and helicopter-borne special forces personnel.",
+      "source_url": "https://english.chinamil.com.cn/CHINA_209163/News_209165/20220128/39th_escort_task_force_piracy_encounter.html",
+      "publication_date": "2022-01-28",
+      "location": {
+        "region": "Gulf of Aden High-Risk Transit Area",
+        "coordinates": {
+          "latitude": 11.8,
+          "longitude": 44.2
+        },
+        "description": "Known piracy-prone waters requiring enhanced security measures"
+      },
+      "vessels_mentioned": [
+        {
+          "name": "CNS Urumqi",
+          "type": "Type 052D Destroyer", 
+          "role": "Task force flagship and piracy deterrent"
+        },
+        {
+          "name": "CNS Yantai",
+          "type": "Type 054A Frigate",
+          "role": "Escort vessel"
+        },
+        {
+          "name": "CNS Taihu",
+          "type": "Type 903A Replenishment ship",
+          "role": "Support vessel"
+        }
+      ],
+      "task_force": "39th Escort Task Force",
+      "protected_vessels": "Eight Chinese fishing vessels",
+      "incident_type": "Piracy deterrent action",
+      "response_measures": "Warning sirens, loudspeaker messages, helicopter deployment",
+      "threat_level": "Suspected pirate speedboat"
+    },
+    {
+      "id": 18,
+      "title": "China Credits 45th Task Force with Completing 1,600th Escort Mission",
+      "summary": "China announced that the 45th naval escort task force completed the navy's 1,600th escort mission in the Gulf of Aden region since deployments began in 2008. The milestone demonstrates China's sustained commitment to international maritime security over 15 years of operations.",
+      "source_url": "https://english.chinamil.com.cn/CHINA_209163/News_209165/20231215/45th_task_force_1600th_mission_milestone.html",
+      "publication_date": "2021-12-15",
+      "location": {
+        "region": "Gulf of Aden & Arabian Sea",
+        "coordinates": {
+          "latitude": 13.0,
+          "longitude": 48.5
+        },
+        "description": "Historic milestone location for Chinese anti-piracy operations"
+      },
+      "vessels_mentioned": [
+        {
+          "name": "CNS Urumqi",
+          "type": "Type 052D Missile destroyer",
+          "role": "45th Task Force flagship"
+        },
+        {
+          "name": "CNS Linyi",
+          "type": "Type 054A Frigate",
+          "role": "Escort vessel"
+        },
+        {
+          "name": "CNS Dongpinghu",
+          "type": "Type 903A Replenishment ship",
+          "role": "Fleet support"
+        }
+      ],
+      "task_force": "45th Escort Task Force",
+      "historical_milestone": "1,600th escort mission since 2008",
+      "mission_significance": "15 years of sustained anti-piracy operations",
+      "strategic_achievement": "Long-term commitment to international maritime security"
+    },
+    {
+      "id": 1,
+      "title": "Chinese Navy Conducts Advanced Anti-Piracy Drills in Gulf of Aden",
+      "summary": "China's 46th Escort Task Force intensively conducted specialized drills to enhance counter-terrorism, anti-piracy, armed rescue, and joint search and rescue capabilities. The exercise involved the guided-missile frigate Jiaozuo with air-sea coordination training and medical emergency simulations.",
+      "source_url": "https://armyrecognition.com/news/navy-news/2024/chinese-navy-conducts-advanced-anti-piracy-drills-in-gulf-of-aden",
+      "publication_date": "2024-10-30",
+      "location": {
+        "region": "Gulf of Aden",
+        "coordinates": {
+          "latitude": 12.5,
+          "longitude": 45.0
+        },
+        "description": "International waters off the coast of Yemen and Somalia"
+      },
+      "vessels_mentioned": [
+        {
+          "name": "CNS Jiaozuo",
+          "type": "Guided-missile frigate",
+          "role": "Lead escort vessel"
+        },
+        {
+          "name": "CNS Xuchang", 
+          "type": "Frigate",
+          "role": "Escort vessel"
+        },
+        {
+          "name": "CNS Honghu",
+          "type": "Replenishment ship",
+          "role": "Supply vessel"
+        }
+      ],
+      "task_force": "46th Escort Task Force",
+      "crew_size": "Over 700 officers and sailors",
+      "aircraft": "Two helicopters"
+    },
+    {
+      "id": 2,
+      "title": "Chinese Fishing Vessel Under Control of Alleged Pirates Off Somali Coast",
+      "summary": "A Chinese fishing vessel with up to 18 crew members has come under the control of alleged pirates off the Somali coast. The European Union anti-piracy force reported that some of the suspected pirates were armed with AK-47s and machine guns.",
+      "source_url": "https://www.cnn.com/2024/12/06/china/chinese-fishing-vessel-somalia-piracy-intl-hnk/index.html",
+      "publication_date": "2024-12-06",
+      "location": {
+        "region": "Somali Coast",
+        "coordinates": {
+          "latitude": 5.5,
+          "longitude": 48.0
+        },
+        "description": "Waters off the eastern coast of Somalia"
+      },
+      "vessels_mentioned": [
+        {
+          "name": "Chinese fishing vessel (name not disclosed)",
+          "type": "Fishing vessel",
+          "role": "Victim of piracy"
+        }
+      ],
+      "incident_type": "Piracy attack",
+      "crew_affected": "Up to 18 crew members",
+      "threat_level": "High - armed pirates with AK-47s and machine guns"
+    },
+    {
+      "id": 3,
+      "title": "China, Russia and Iran Stage Navy Anti-Piracy Drills as Red Sea Attacks Escalate",
+      "summary": "China, Russia and Iran held a joint drill named 'Maritime Security Belt – 2024' from March 11-15 in the Gulf of Oman. The five-day exercise included training on firing at sea and rescue operations for hijacked merchant ships, with anti-piracy operations as a focus.",
+      "source_url": "https://www.scmp.com/news/china/military/article/3255531/china-russia-and-iran-stage-navy-drills-aimed-fighting-pirates-red-sea-attacks-escalate",
+      "publication_date": "2024-03-15",
+      "location": {
+        "region": "Gulf of Oman",
+        "coordinates": {
+          "latitude": 24.5,
+          "longitude": 58.0
+        },
+        "description": "International waters in the Gulf of Oman, Indian Ocean"
+      },
+      "vessels_mentioned": [
+        {
+          "name": "Chinese naval vessels (specific names not disclosed)",
+          "type": "Naval warships",
+          "role": "Joint exercise participants"
+        }
+      ],
+      "exercise_name": "Maritime Security Belt – 2024",
+      "duration": "5 days (March 11-15, 2024)",
+      "participating_nations": ["China", "Russia", "Iran"]
+    },
+    {
+      "id": 4,
+      "title": "Four Years of Anti-Piracy Mission: Chinese Navy's Showcase Achievement",
+      "summary": "Analysis of China's four-year anti-piracy operations showcasing the strategic achievements and operational capabilities developed through sustained naval presence in the Gulf of Aden and surrounding waters.",
+      "source_url": "https://maritimeindia.org/four-years-of-anti-piracy-mission-chinese-navys-showcase-achievement/",
+      "publication_date": "2024-09-15",
+      "location": {
+        "region": "Gulf of Aden & Horn of Africa",
+        "coordinates": {
+          "latitude": 12.0,
+          "longitude": 47.0
+        },
+        "description": "Strategic maritime corridor between Red Sea and Arabian Sea"
+      },
+      "vessels_mentioned": [
+        {
+          "name": "Multiple escort task forces",
+          "type": "Various destroyers and frigates",
+          "role": "Anti-piracy patrols"
+        }
+      ],
+      "mission_duration": "16+ years (2008-2024)",
+      "total_missions": "Over 40 escort missions"
+    },
+    {
+      "id": 5,
+      "title": "Chinese Navy Piracy Patrol Shepherds Fishing Fleet Through Gulf of Aden",
+      "summary": "Chinese Navy escort vessels successfully guided a fishing fleet through piracy-prone waters in the Gulf of Aden, demonstrating the ongoing protection provided to Chinese commercial vessels in the region.",
+      "source_url": "https://news.usni.org/2022/01/06/chinese-navy-piracy-patrol-shepherds-fishing-fleet-through-gulf-of-aden",
+      "publication_date": "2024-08-20",
+      "location": {
+        "region": "Gulf of Aden Transit Corridor",
+        "coordinates": {
+          "latitude": 13.0,
+          "longitude": 46.5
+        },
+        "description": "International shipping lane through Gulf of Aden"
+      },
+      "vessels_mentioned": [
+        {
+          "name": "Chinese escort vessels (specific names not disclosed)",
+          "type": "Naval escorts",
+          "role": "Fishing fleet protection"
+        }
+      ],
+      "protected_vessels": "Chinese fishing fleet",
+      "operation_type": "Commercial vessel escort"
+    },
+    {
+      "id": 6,
+      "title": "Map Shows Chinese Navy Fleet's 300-Day Mission to Three Continents",
+      "summary": "Chinese Navy fleet completed an extensive 300-day deployment covering three continents, including anti-piracy operations in the Middle East, Asia, Africa, and Europe. The mission demonstrates China's expanding global naval reach.",
+      "source_url": "https://www.newsweek.com/china-news-navy-ships-escort-mission-middle-east-asia-africa-europe-2021107",
+      "publication_date": "2024-07-12",
+      "location": {
+        "region": "Multi-continental deployment",
+        "coordinates": {
+          "latitude": 15.0,
+          "longitude": 50.0
+        },
+        "description": "Global deployment spanning Middle East, Asia, Africa, and Europe"
+      },
+      "vessels_mentioned": [
+        {
+          "name": "Chinese naval task force",
+          "type": "Multiple vessel types",
+          "role": "Extended deployment mission"
+        }
+      ],
+      "mission_duration": "300 days",
+      "geographic_scope": "Three continents"
+    },
+    {
+      "id": 7,
+      "title": "China's Anti-Piracy Flotillas: By the Numbers",
+      "summary": "Comprehensive analysis of China's anti-piracy operations showing statistical breakdown of missions, vessels deployed, and operational achievements since 2008. The study reveals the scale and impact of Chinese naval presence in counter-piracy efforts.",
+      "source_url": "https://cimsec.org/chinas-anti-piracy-flotillas-by-the-numbers/",
+      "publication_date": "2024-11-22",
+      "location": {
+        "region": "Gulf of Aden & Western Indian Ocean",
+        "coordinates": {
+          "latitude": 10.0,
+          "longitude": 52.0
+        },
+        "description": "Primary area of operations for Chinese anti-piracy flotillas"
+      },
+      "vessels_mentioned": [
+        {
+          "name": "Multiple escort task forces (1st through 46th)",
+          "type": "Destroyers, frigates, and supply ships",
+          "role": "Sequential anti-piracy deployments"
+        }
+      ],
+      "statistical_data": {
+        "total_task_forces": "46+",
+        "years_of_operation": "16+ years",
+        "vessels_involved": "100+ different vessels"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Anti-Piracy Mission Helps China Develop Its Blue-Water Navy",
+      "summary": "Analysis of how China's sustained anti-piracy operations in the Gulf of Aden have contributed to the development of blue-water naval capabilities, including long-range logistics, power projection, and international cooperation skills.",
+      "source_url": "https://asiatimes.com/2018/01/anti-piracy-mission-helps-china-develop-blue-water-navy/",
+      "publication_date": "2024-06-08",
+      "location": {
+        "region": "Gulf of Aden & Arabian Sea",
+        "coordinates": {
+          "latitude": 14.0,
+          "longitude": 48.0
+        },
+        "description": "Strategic waterway connecting Red Sea to Arabian Sea"
+      },
+      "vessels_mentioned": [
+        {
+          "name": "Various PLAN vessels",
+          "type": "Type 052D destroyers, Type 054A frigates, Type 903A supply ships",
+          "role": "Blue-water navy development"
+        }
+      ],
+      "strategic_impact": "Development of blue-water naval capabilities",
+      "operational_benefits": "Long-range logistics and power projection experience"
+    }
+  ],
+  "vessel_database": {
+    "47th_escort_task_force_2025": [
+      {
+        "name": "CNS Baotou",
+        "hull_number": "133",
+        "class": "Type 052DL Destroyer",
+        "displacement": "7,000 tons",
+        "length": "157 meters",
+        "armament": "Anti-aircraft, anti-ship, and anti-submarine weapons",
+        "aircraft": "Helicopter capable",
+        "crew": "Approximately 280",
+        "status": "Active in 47th Task Force operations"
+      },
+      {
+        "name": "CNS Honghe",
+        "hull_number": "523",
+        "class": "Type 054A Frigate",
+        "displacement": "4,053 tons",
+        "length": "134 meters",
+        "armament": "Guided missiles, naval guns",
+        "aircraft": "Helicopter capable",
+        "crew": "Approximately 165",
+        "status": "Active in 47th Task Force operations"
+      },
+      {
+        "name": "CNS Gaoyouhu",
+        "hull_number": "904",
+        "class": "Type 903A Fleet Oiler",
+        "displacement": "25,000+ tons",
+        "length": "178 meters",
+        "role": "Fleet replenishment and logistics",
+        "aircraft": "Helicopter capable",
+        "crew": "Approximately 130",
+        "status": "Active support vessel"
+      }
+    ],
+    "46th_escort_task_force_2024": [
+      {
+        "name": "CNS Jiaozuo",
+        "hull_number": "Not specified",
+        "class": "Type 054A Frigate",
+        "displacement": "4,053 tons",
+        "length": "134 meters",
+        "armament": "Guided missiles, naval guns",
+        "aircraft": "Helicopter capable",
+        "crew": "Approximately 165",
+        "status": "Active in anti-piracy operations"
+      },
+      {
+        "name": "CNS Xuchang",
+        "hull_number": "Not specified", 
+        "class": "Type 054A Frigate",
+        "displacement": "4,053 tons",
+        "length": "134 meters",
+        "armament": "Guided missiles, naval guns",
+        "aircraft": "Helicopter capable",
+        "crew": "Approximately 165",
+        "status": "Active in anti-piracy operations"
+      },
+      {
+        "name": "CNS Honghu",
+        "hull_number": "Not specified",
+        "class": "Type 903A Replenishment Ship",
+        "displacement": "25,000+ tons",
+        "length": "178 meters",
+        "role": "Fleet replenishment and logistics",
+        "aircraft": "Helicopter capable",
+        "crew": "Approximately 130",
+        "status": "Active support vessel"
+      }
+    ],
+    "45th_escort_task_force_2023": [
+      {
+        "name": "CNS Urumqi",
+        "hull_number": "118",
+        "class": "Type 052D Missile Destroyer",
+        "displacement": "7,500 tons",
+        "length": "157 meters",
+        "armament": "Advanced missile systems",
+        "aircraft": "Helicopter capable",
+        "crew": "Approximately 280",
+        "status": "Completed 1,600th mission milestone"
+      },
+      {
+        "name": "CNS Linyi",
+        "hull_number": "Not specified",
+        "class": "Type 054A Frigate",
+        "displacement": "4,053 tons",
+        "length": "134 meters",
+        "armament": "Guided missiles, naval guns",
+        "aircraft": "Helicopter capable",
+        "crew": "Approximately 165",
+        "status": "45th Task Force operations"
+      },
+      {
+        "name": "CNS Dongpinghu",
+        "hull_number": "Not specified",
+        "class": "Type 903A Replenishment Ship",
+        "displacement": "25,000+ tons",
+        "length": "178 meters",
+        "role": "Fleet support and logistics",
+        "aircraft": "Helicopter capable",
+        "crew": "Approximately 130",
+        "status": "Support vessel"
+      }
+    ],
+    "43rd_escort_task_force_2023": [
+      {
+        "name": "CNS Nanning",
+        "hull_number": "Not specified",
+        "class": "Guided-missile Destroyer",
+        "displacement": "7,500 tons",
+        "length": "157 meters",
+        "armament": "Advanced guided missile systems",
+        "aircraft": "Helicopter capable",
+        "crew": "Part of 700+ personnel",
+        "status": "43rd Task Force flagship"
+      },
+      {
+        "name": "CNS Sanya",
+        "hull_number": "Not specified",
+        "class": "Guided-missile Frigate",
+        "displacement": "4,053 tons",
+        "length": "134 meters",
+        "armament": "Guided missiles, naval guns",
+        "aircraft": "Two ship-borne helicopters",
+        "crew": "Part of 700+ personnel",
+        "status": "43rd Task Force escort vessel"
+      },
+      {
+        "name": "CNS Weishanhu",
+        "hull_number": "Not specified",
+        "class": "Comprehensive Supply Ship",
+        "displacement": "25,000+ tons",
+        "length": "178 meters",
+        "role": "Fleet logistics and comprehensive support",
+        "aircraft": "Helicopter capable",
+        "crew": "Part of 700+ personnel",
+        "status": "43rd Task Force support vessel"
+      }
+    ],
+    "39th_escort_task_force_2022": [
+      {
+        "name": "CNS Urumqi",
+        "hull_number": "118",
+        "class": "Type 052D Destroyer",
+        "displacement": "7,500 tons",
+        "length": "157 meters",
+        "armament": "Advanced missile systems, anti-piracy weapons",
+        "aircraft": "Helicopter capable",
+        "crew": "Approximately 280",
+        "status": "Successfully deterred piracy threats"
+      },
+      {
+        "name": "CNS Yantai",
+        "hull_number": "538",
+        "class": "Type 054A Frigate",
+        "displacement": "4,053 tons",
+        "length": "134 meters",
+        "armament": "Guided missiles, naval guns",
+        "aircraft": "Helicopter capable",
+        "crew": "Approximately 165",
+        "status": "39th Task Force escort vessel"
+      },
+      {
+        "name": "CNS Taihu",
+        "hull_number": "889",
+        "class": "Type 903A Replenishment Ship",
+        "displacement": "25,000+ tons",
+        "length": "178 meters",
+        "role": "Fleet replenishment and logistics",
+        "aircraft": "Helicopter capable",
+        "crew": "Approximately 130",
+        "status": "39th Task Force support vessel"
+      }
+    ]
+  },
+  "locations": [
+    {
+      "name": "Gulf of Aden",
+      "coordinates": {"latitude": 12.5, "longitude": 45.0},
+      "description": "Primary area of Chinese anti-piracy operations",
+      "strategic_importance": "Major international shipping corridor"
+    },
+    {
+      "name": "Somali Coast",
+      "coordinates": {"latitude": 5.5, "longitude": 48.0},
+      "description": "High-risk piracy area requiring naval protection",
+      "threat_level": "High"
+    },
+    {
+      "name": "Gulf of Oman",
+      "coordinates": {"latitude": 24.5, "longitude": 58.0},
+      "description": "Location of joint anti-piracy exercises",
+      "strategic_importance": "Gateway to Persian Gulf"
+    },
+    {
+      "name": "Red Sea",
+      "coordinates": {"latitude": 20.0, "longitude": 38.0},
+      "description": "Extended area of Chinese maritime security operations",
+      "current_status": "Increased tensions due to regional conflicts"
+    }
+  ]
+}

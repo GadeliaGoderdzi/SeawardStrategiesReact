@@ -1,0 +1,56 @@
+[
+  {
+    "id": "662d73c8-2045-4631-a2db-b140e0ff60ae",
+    "firstName": "Test",
+    "lastName": "User",
+    "name": "Test User",
+    "email": "test@example.com",
+    "password": "$2a$12$Znu3cnMuU.Ej08abj/Rs2eF1PmWLO79qShdn9.fj9pFPeStpDMf0K",
+    "authProvider": "local",
+    "isVerified": false,
+    "verificationToken": "bc870f29441382a9cfa256238e525e8187f7089da2b2d7c9e51f253082ce9d6f",
+    "verificationExpires": "2025-07-28T09:12:23.537Z",
+    "role": "user",
+    "isActive": true,
+    "preferences": {
+      "theme": "light",
+      "notifications": {
+        "email": true,
+        "push": true
+      }
+    },
+    "profile": {
+      "completed": false
+    },
+    "products": [],
+    "createdAt": "2025-07-27T09:12:23.542Z",
+    "updatedAt": "2025-07-27T09:12:23.542Z"
+  },
+  {
+    "id": "abc4674a-5a4a-48ec-b20e-3aaaca2f9592",
+    "firstName": "John",
+    "lastName": "Doe",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "password": "$2a$12$/pOEsp3cnrLkz3wvyK4JVeWqVQcLlzrzn2IV3EMetrKqfbuMzYc9K",
+    "authProvider": "local",
+    "isVerified": false,
+    "verificationToken": "04b37b2369a5a7f342217326efb97044375bde82dc83a3a01a2c5b4add44f6c5",
+    "verificationExpires": "2025-07-28T09:59:54.273Z",
+    "role": "user",
+    "isActive": true,
+    "preferences": {
+      "theme": "light",
+      "notifications": {
+        "email": true,
+        "push": true
+      }
+    },
+    "profile": {
+      "completed": false
+    },
+    "products": [],
+    "createdAt": "2025-07-27T09:59:54.277Z",
+    "updatedAt": "2025-07-27T09:59:54.277Z"
+  }
+]

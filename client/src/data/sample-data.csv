@@ -1,0 +1,21 @@
+id,name,category,revenue,profit,employees,country,city,latitude,longitude,date,score,performance
+1,TechCorp,Technology,1250000,187500,150,USA,San Francisco,37.7749,-122.4194,2024-01-15,85,92
+2,GreenEnergy,Energy,980000,147000,85,Germany,Berlin,52.5200,13.4050,2024-01-20,78,88
+3,AutoMotive,Automotive,2100000,315000,320,Japan,Tokyo,35.6762,139.6503,2024-02-01,91,95
+4,HealthPlus,Healthcare,1680000,252000,240,Canada,Toronto,43.6532,-79.3832,2024-02-10,89,90
+5,FinanceFirst,Finance,1950000,292500,180,UK,London,51.5074,-0.1278,2024-02-15,82,87
+6,FoodChain,Food,875000,131250,95,France,Paris,48.8566,2.3522,2024-03-01,76,83
+7,RetailKing,Retail,1420000,213000,210,Australia,Sydney,-33.8688,151.2093,2024-03-10,80,85
+8,CloudSoft,Technology,1100000,165000,125,USA,Seattle,47.6062,-122.3321,2024-03-15,88,91
+9,BioPharma,Pharmaceuticals,2250000,337500,290,Switzerland,Zurich,47.3769,8.5417,2024-04-01,93,96
+10,LogiTrans,Logistics,1350000,202500,160,Netherlands,Amsterdam,52.3676,4.9041,2024-04-10,79,84
+11,EduTech,Education,750000,112500,75,India,Bangalore,12.9716,77.5946,2024-04-15,74,80
+12,AeroSpace,Aerospace,3200000,480000,450,USA,Los Angeles,34.0522,-118.2437,2024-05-01,94,97
+13,MiningCorp,Mining,1800000,270000,280,Brazil,São Paulo,-23.5505,-46.6333,2024-05-10,77,82
+14,TeleCom,Telecommunications,1650000,247500,200,South Korea,Seoul,37.5665,126.9780,2024-05-15,86,89
+15,AgriTech,Agriculture,920000,138000,110,Argentina,Buenos Aires,-34.6118,-58.3960,2024-06-01,73,78
+16,MediaHouse,Media,1180000,177000,140,USA,New York,40.7128,-74.0060,2024-06-10,81,86
+17,ChemicalPro,Chemicals,1750000,262500,235,China,Shanghai,31.2304,121.4737,2024-06-15,84,88
+18,SportsTech,Sports,680000,102000,85,Spain,Madrid,40.4168,-3.7038,2024-07-01,72,77
+19,TravelCorp,Travel,1050000,157500,120,Italy,Rome,41.9028,12.4964,2024-07-10,75,81
+20,WaterTech,Utilities,1380000,207000,165,Sweden,Stockholm,59.3293,18.0686,2024-07-15,83,87

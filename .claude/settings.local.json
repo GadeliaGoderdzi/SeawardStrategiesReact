@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run lint)",
+      "Bash(npm run lint:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run dev:*)",
+      "Bash(npm start)",
+      "WebFetch(domain:assetstorev1-prd-cdn.unity3d.com)",
+      "Bash(npm run build:*)",
+      "Bash(node:*)",
+      "Bash(grep:*)",
+      "Bash(rm:*)",
+      "Bash(taskkill:*)",
+      "Bash(findstr:*)",
+      "Bash(start http://localhost:3000/signup)",
+      "Bash(mongod:*)",
+      "Bash(net start:*)",
+      "Bash(mkdir:*)",
+      "Bash(npm run:*)",
+      "Bash(tasklist:*)",
+      "Bash(cmd /c:*)",
+      "Bash(curl:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(cp:*)",
+      "Bash(start http://localhost:3000)"
+    ],
+    "deny": []
+  }
+}
